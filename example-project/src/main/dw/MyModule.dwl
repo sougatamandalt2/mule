@@ -6,4 +6,3 @@
 %dw 2.0
 
 fun helloWorld() = { hello: "world" }
-fun helloWorld() = { hello: "world" }
